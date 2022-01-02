@@ -1,4 +1,11 @@
-//sueldos//
+/*
+Realice un programa que: tras capturar la clave del empleado (solo numeros) el empleado capturará:
+el otal de sus ultimos seis sueldos
+el programa mostrará en el orden adecuado:
+La clave del empleado
+Promedio semestral de sus ingresos
+Su ingreso total semestral
+*/
 #include<stdio.h>
 #include<math.h>
 main(){
