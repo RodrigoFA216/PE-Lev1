@@ -1,4 +1,6 @@
-//promedio de calificaciones
+/*
+Realice un programa que tras introducir seis calificaciones calcule el promedio 
+*/
 #include<stdio.h>
 main(){
 	float CAL1, CAL2, CAL3, CAL4, CAL5, CAL6, PROM;
