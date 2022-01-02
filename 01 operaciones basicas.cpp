@@ -1,3 +1,11 @@
+/*Realice un programa que tras introducir dos datos imprima: 
+la suma 
+la multiplicación
+la resta
+la división
+opcional: si la división es exacta o no
+*/
+
 #include<stdio.h>
 #include<math.h>
 main(){
